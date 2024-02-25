@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Akarrouch</h1>
-<h3 align="center">A Fullstack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm a Fullstack Web Developer</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
